@@ -5,11 +5,11 @@
 - 네이버 여행정보: 국내 여행지 정보
 
 ## 사용한 언어 및 라이브러리, 프레임워크
-- Python(Visual Studio Code)
-  - konlpy, jpype, pickle, tensorflow, pandas, os, glob, re, json, time, selenium, numpy, seqeval, matplotlib, sklearn, pymysql, logging, random, threading, socket, MySQLdb, itertools, ast
+- Python
+  - konlpy, pickle, tensorflow, pandas, selenium, numpy, matplotlib, sklearn, socket
 - HTML, JS
 - MySQL
-- Django(PyCharm)
+- Django
 
 ## 순서
 #### 1. 텍스트 전처리기 생성
